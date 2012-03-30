@@ -1,0 +1,29 @@
+{
+    "name": "toggler-group",
+    "version": "0.1",
+    "title": ".togglerGroup()",
+    "author": {
+        "name": "Jonathan Camenisch",
+        "url": "https://github.com/jcamenisch"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "TO-DO"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1",
+        "target-element": "~> 0.1"
+    },
+    "description": "Sets up a group of links ('togglers') to control visibility of a group of elements (such as tabs or gallery images)",
+    "keywords": [
+        "DOM",
+        "utility",
+        "tabs",
+        "gallery"
+    ],
+    "files": [
+        "jquery.toggler_group.js"
+    ]
+}
