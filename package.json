@@ -1,6 +1,6 @@
 {
     "name": "toggler-group",
-    "version": "0.1",
+    "version": "0.1.1",
     "title": ".togglerGroup()",
     "author": {
         "name": "Jonathan Camenisch",
@@ -24,6 +24,6 @@
         "gallery"
     ],
     "files": [
-        "jquery.toggler_group.js"
+        "toggler_group.js"
     ]
 }
