@@ -13,7 +13,7 @@
         }
     ],
     "dependencies": {
-        "jquery": "1",
+        "jquery": "~> 3.0",
         "target-element": "~> 0.1"
     },
     "description": "Sets up a group of links ('togglers') to control visibility of a group of elements (such as tabs or gallery images)",
